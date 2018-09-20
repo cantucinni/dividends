@@ -1,0 +1,10 @@
+{
+    "Sites": 
+        {
+            "Robinhood": {
+                "u": "username",
+                "p": "yourpwd"
+            }
+        }
+    
+}	
